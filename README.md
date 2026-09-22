@@ -11,9 +11,9 @@ Expandable Schneider-based PV + storage: cut peak grid stress, provide backup th
 
 | Role | Party |
 |------|--------|
-| Facility / operator | **Client 1** |
-| Project coordination | **Client 2** |
-| Funding | _______ (private foundation) |
+| Facility / operator | **Client 2** |
+| Organiser / project coordination | **Client 1** |
+| Funding | _________ |
 | Local installation | Local install partner |
 | System design & sourcing | **Panda Labs Ltd., Hong Kong** |
 
@@ -109,6 +109,10 @@ Illustrative daily averages from the study:
 | Pointer to Panda Labs field engineering | Supplier quotes, POs, or personal contacts |
 
 ---
+
+## Full report (scrubbed)
+
+Download the public case-study PDF: [`ECC-Solar-Case-Study-SCRUBBED.pdf`](./ECC-Solar-Case-Study-SCRUBBED.pdf)
 
 ## Related
 
